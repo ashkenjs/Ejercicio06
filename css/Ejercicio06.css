@@ -49,6 +49,6 @@ body {
 }
 
 .boton:hover::after {
-    content: '¡Hecho!';
+    content: '¡Ya esta listo!';
     opacity: 1;
 }
